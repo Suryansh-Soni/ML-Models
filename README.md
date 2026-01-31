@@ -1,27 +1,80 @@
-# Decision Tree-Based Diabetes Prediction with Pruning Techniques
+# 🚀 Machine Learning Learning Challenge
 
-This repository contains a machine learning project that predicts diabetes using a Decision Tree Classifier trained on a structured diabetes dataset. The project focuses on reducing overfitting by implementing both pre-pruning and post-pruning strategies and evaluating their impact on model performance.
+Welcome to my **Machine Learning Learning Challenge** repository! This repo documents my journey of learning, experimenting, and building projects in Machine Learning—from core fundamentals to real-world applications.
 
-## Project Workflow:
+The goal of this challenge is to develop **strong conceptual understanding**, improve **problem-solving skills**, and gain **hands-on experience** by consistently working on ML concepts and projects.
 
-Dataset loading and exploratory analysis
+---
 
-Data preprocessing and feature preparation
+## 🎯 Challenge Objectives
 
-Training an unpruned Decision Tree model
+* Build a solid foundation in Machine Learning concepts
+* Understand the intuition behind ML algorithms
+* Implement algorithms from scratch and using libraries
+* Work on real-world datasets and projects
+* Improve consistency, discipline, and learning habits
+* Track progress and reflect on learnings
 
-Applying pre-pruning to limit tree growth
+---
 
-Applying post-pruning using cost complexity pruning
+## 📚 Topics Covered (and Planned)
 
-Model evaluation and comparison
+* Python for Machine Learning
+* Data Preprocessing & Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Supervised Learning
 
-## Tools & Libraries:
+  * Linear Regression
+  * Logistic Regression
+  * Decision Trees
+  * Random Forests
+  * K-Nearest Neighbors (KNN)
+* Unsupervised Learning
 
-Python
+  * K-Means Clustering
+  * Hierarchical Clustering
+* Model Evaluation & Metrics
+* Overfitting & Underfitting
+* Hyperparameter Tuning
+* Pre-pruning & Post-pruning
+* Basics of Machine Learning Pipelines
 
-Pandas 
+---
 
-Scikit-learn
+## 🛠️ Tech Stack & Tools
+
+* **Language:** Python 🐍
+* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+* **Environment:** Jupyter Notebook / VS Code
+* **Version Control:** Git & GitHub
+
+---
 
 
+
+## 📈 Progress Tracking
+
+I will be regularly updating this repository with:
+
+* New concepts and implementations
+* Mini-projects and full ML projects
+* Code improvements and optimizations
+* Learnings and observations
+
+Consistency over perfection — progress is the goal.
+
+---
+
+## 🤝 Contributions & Feedback
+
+Suggestions, feedback, and discussions are always welcome! Feel free to open an issue or share ideas that can help improve my learning journey.
+
+---
+
+## 🌱 About Me
+
+I am a **B.Tech Data Science student**, passionate about Machine Learning and Data-driven problem solving. This challenge is part of my long-term goal to grow as a skilled ML practitioner.
+
+---
+
+⭐ If you find this repository useful or interesting, consider giving it a star!
